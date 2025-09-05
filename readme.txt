@@ -1,4 +1,4 @@
-Email Spam Classifier using KNN
+Movie Sentiment Analysis using KNN
 This project is a machine learning-based movie sentiment analyzer.
 It uses TF-IDF vectorization and the K-Nearest Neighbors (KNN) algorithm 
 to classify movies sentiment as 0(sad) or 1 (happy).
@@ -20,4 +20,5 @@ Columns:
 
 How to install libraries:
 For ex if you want to install numpy library then write below synatx in the command line:
+
 pip install numpy
